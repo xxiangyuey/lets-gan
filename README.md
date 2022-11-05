@@ -1,13 +1,19 @@
 前端的课程开始了！这是一个较为完整的笔记本，记录我整个前端学习过程中的疑问，困惑和折腾的坑，为以后的面试打下坚实的时间基础。
-:::danger
+
+:::info
 需要大家填写的地方为
 1.github的主页地址：参考示例
 2.表格部分直接复制即可
+3.添加语雀知识库地址
 :::
+
 ## Github
 
-github地址：https://github.com/xxiangyuey/lets-start
+github地址：
+
+
 ## Timeline
+
 :::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
 如有特殊情况或者建议请在备注中填写~
@@ -54,3 +60,6 @@ github地址：https://github.com/xxiangyuey/lets-start
 | 38 | pwa |  |  |
 | 39 | react native |  |  |
 | 40 | electron |  |  |
+
+## 语雀
+地址：[https://www.yuque.com/u32831937/hlbg16?#](https://www.yuque.com/u32831937/hlbg16?#) 《ku-1》
